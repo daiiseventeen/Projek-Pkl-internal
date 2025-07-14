@@ -3,7 +3,7 @@
 
 <head>
     <title>
-        saya di sini menubah bagian ini menjadi halaman utama yang akan menampilkan daftar produk, kategori, dan fitur lainnya.
+        ini perubahan
         {{ config('app.name', 'Laravel') }}
     </title>
     <meta charset="utf-8">
