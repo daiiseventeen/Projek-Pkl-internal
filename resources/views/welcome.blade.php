@@ -3,7 +3,8 @@
 
 <head>
     <title>
-        FoodMart - Free eCommerce Grocery Store HTML Website Template
+        saya di sini menubah bagian ini menjadi halaman utama yang akan menampilkan daftar produk, kategori, dan fitur lainnya.
+        {{ config('app.name', 'Laravel') }}
     </title>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -27,7 +28,7 @@
         rel="stylesheet">
 
 </head>
-
+    
 <body>
     <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
         <defs>
