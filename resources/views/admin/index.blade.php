@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="container">
-    <h1>Admin Dashboard</h1>
+    <h1>Admin Dashboard Special</h1>
     <p>Welcome</p>
     <p>You Can Manage Users, Product, And Category</p>
 </div>
