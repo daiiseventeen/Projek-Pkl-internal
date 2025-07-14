@@ -3,7 +3,7 @@
 @section('content')
 <div class="container">
     <h1>Admin Dashboard</h1>
-    <p>Welcome</p>
+    <p>Beranda</p>
     <p>You Can Manage Users, Product, And Category</p>
 </div>
  <div class="row gx-3">
