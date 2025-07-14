@@ -2,8 +2,8 @@
 
 @section('content')
 <div class="container">
-    <h1>Admin Dashboard Special</h1>
-    <p>Welcome</p>
+    <h1>Admin Dashboard</h1>
+    <p>Beranda</p>
     <p>You Can Manage Users, Product, And Category</p>
 </div>
  <div class="row gx-3">
